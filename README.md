@@ -147,6 +147,10 @@ This project demonstrates how data analysis and visualization can be used to unc
 
 ---
 
-## Author
+## Screenshots
 
-Surya Teja
+<img width="1280" height="720" alt="Screenshot 2026-04-19 184917" src="https://github.com/user-attachments/assets/e00b1c0d-fc72-4cff-88c0-20e09a2cb3e1" />
+
+<img width="1280" height="720" alt="Screenshot 2026-04-19 185027" src="https://github.com/user-attachments/assets/5c04d78a-c259-4924-9b66-d4a5674bae46" />
+
+
